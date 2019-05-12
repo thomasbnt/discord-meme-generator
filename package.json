@@ -1,0 +1,31 @@
+{
+  "name": "discord-meme-generator",
+  "version": "1.0.0",
+  "description": "simple dank meme generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard & eslint **"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GauthierPoulain/discord-meme-generator.git"
+  },
+  "keywords": [
+    "dank-memes",
+    "memes",
+    "dank",
+    "generator",
+    "random",
+    "discord"
+  ],
+  "author": "GauthierPoulain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GauthierPoulain/discord-meme-generator/issues"
+  },
+  "homepage": "https://github.com/GauthierPoulain/discord-meme-generator#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "canvas": "^2.5.0"
+  }
+}
