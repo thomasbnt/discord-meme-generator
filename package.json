@@ -1,6 +1,6 @@
 {
   "name": "discord-meme-generator",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "simple dank meme generator",
   "main": "index.js",
   "scripts": {
